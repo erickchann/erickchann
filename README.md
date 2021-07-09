@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erick Chandra
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Web Technologies
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning everything
 
 <!---
 erickchann/erickchann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
