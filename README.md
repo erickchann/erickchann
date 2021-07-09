@@ -25,7 +25,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=8)](https://github.com/erickchann/erickchann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10)](https://github.com/erickchann/erickchann)
 
 
 <!---
