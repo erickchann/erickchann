@@ -27,6 +27,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10)](https://github.com/erickchann/erickchann)
 
+<br>
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erickchann)](https://github.com/erickchann/erickchann)
+
 
 <!---
 erickchann/erickchann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
