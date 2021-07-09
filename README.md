@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Erick Chandra
+### Hi there, I'm Erick Chandra 👋
+
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everything
 
