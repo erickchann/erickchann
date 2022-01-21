@@ -1,6 +1,6 @@
 
 ![Erick Chandra's card name](https://cardivo.vercel.app/api?name=Erick%20Chandra&description=Having%20fun%20with%20infinite%20curiousity
-&image=https://avatars.githubusercontent.com/u/58076160?v=4&backgroundColor=%23293B5F&instagram=asawgi&linkedin=Ahmad%20Saugi&github=erickchann&pattern=plus&colorPattern=%23ecf0f1)
+&image=https://avatars.githubusercontent.com/u/58076160?v=4&backgroundColor=%23293B5Fgithub=erickchann&pattern=plus&colorPattern=%23ecf0f1)
 
 - 📚 Currently learning Tailwind CSS
 - ⚡ Excited to create projects with Vuejs and Laravel
