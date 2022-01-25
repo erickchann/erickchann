@@ -14,9 +14,9 @@ I'm a fullstack developer who passionate learning new technology especially in w
 ---
 
 ## Here is tech stacks I know and use 🛠
-![Top Langs] <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10" align="right">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-2f1a47?style=flat&logo=rust)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-2f1a47?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2f1a47?style=flat&logo=CSS3)&nbsp;
