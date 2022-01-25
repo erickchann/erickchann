@@ -41,4 +41,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-2f1a47?style=flat&logo=GitHub)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-2f1a47?style=flat&logo=GitHub)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-2f1a47?style=flat&logo=GitLab)&nbsp;
+
+![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=Visual%20Studio%20Code)&nbsp;
+![Sublime%20Text](https://img.shields.io/badge/-Sublime%20Text-2f1a47?style=flat&logo=Sublime%20Text)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=Postman)&nbsp;
+![Adobe%20Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-2f1a47?style=flat&logo=Adobe%20Photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=Figma)&nbsp;
