@@ -27,6 +27,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-2f1a47?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-2f1a47?style=flat&logo=Node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=Firebase)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-2f1a47?style=flat&logo=GitHub)&nbsp;
