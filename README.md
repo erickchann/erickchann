@@ -33,7 +33,11 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=Firebase)&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=Bootstrap)&nbsp;
+![Bulma](https://img.shields.io/badge/-Bulma-2f1a47?style=flat&logo=Bulma)&nbsp;
 ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=Tailwind%20CSS)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-2f1a47?style=flat&logo=Vuetify)&nbsp;
+![Buefy](https://img.shields.io/badge/-Buefy-2f1a47?style=flat&logo=Buefy)&nbsp;
+![Material%20Design%20Icons](https://img.shields.io/badge/-Material%20Design%20Icons-2f1a47?style=flat&logo=Material%20Design%20Icons)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-2f1a47?style=flat&logo=GitHub)&nbsp;
