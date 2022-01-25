@@ -28,6 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-2f1a47?style=flat&logo=Node.js)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-2f1a47?style=flat&logo=npm)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
+![Composer](https://img.shields.io/badge/-Composer-2f1a47?style=flat&logo=Composer)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=Firebase)&nbsp;
 
