@@ -16,7 +16,12 @@ I'm a fullstack developer who passionate learning new technology especially in w
 ## Here is tech stacks I know and use 🛠
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10" align="right">
 
-![Javascript](https://img.shields.io/badge/-Javascript-111827?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-111827?style=flat&logo=php)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-111827?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-111827?style=flat&logo=CSS3)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-2f1a47?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2f1a47?style=flat&logo=CSS3)&nbsp;
+
+![VueJs](https://img.shields.io/badge/-VueJs-2f1a47?style=flat&logo=Vue.js)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-2f1a47?style=flat&logo=Vite)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
+![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=React)&nbsp;
