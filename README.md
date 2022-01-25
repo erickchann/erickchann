@@ -23,5 +23,7 @@ I'm a fullstack developer who passionate learning new technology especially in w
 
 ![VueJs](https://img.shields.io/badge/-VueJs-2f1a47?style=flat&logo=Vue.js)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-2f1a47?style=flat&logo=Vite)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=React)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-2f1a47?style=flat&logo=Node.js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-2f1a47?style=flat&logo=Nuxt.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
