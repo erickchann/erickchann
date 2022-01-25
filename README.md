@@ -10,4 +10,7 @@ I'm a fullstack developer who passionate learning new technology especially in w
 - 📫 You can reach me at my instagram [@erickchandra___](https://instagram.com/erickchandra___)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erickchann)](https://github.com/erickchann/erickchann)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10)](https://github.com/erickchann/erickchann)
