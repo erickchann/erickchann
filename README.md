@@ -32,6 +32,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=Firebase)&nbsp;
 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=Bootstrap)&nbsp;
+![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=Tailwind%20CSS)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-2f1a47?style=flat&logo=GitHub)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-2f1a47?style=flat&logo=GitHub)&nbsp;
