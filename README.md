@@ -1,4 +1,4 @@
-## Hi, I'm Erick 👨🏻‍💻
+# *Hi, There 👋🏻*
 
 ![Erick Chandra's card name](https://cardivo.vercel.app/api?name=Erick%20Chandra&description=Learning%20with%20infinite%20curiousity&image=https://avatars.githubusercontent.com/u/58076160?v=4&backgroundColor=%23ecf0f1&instagram=erickchandra___&linkedin=Erick%20Chandra&github=erickchann&pattern=hideout&colorPattern=%23eaeaea)
 
@@ -31,6 +31,7 @@
 ![Composer](https://img.shields.io/badge/-Composer-2f1a47?style=flat&logo=Composer)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=Firebase)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-2f1a47?style=flat&logo=WordPress)&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=Bootstrap)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-2f1a47?style=flat&logo=Bulma)&nbsp;
