@@ -5,7 +5,7 @@
 ## About Me
 - 📚 Currently learning UI frameworks, JavaScript frameworks, web animations and interactivity
 - ⚡ Excited to create projects with VueJs and Laravel
-- 💕 Currently fall in love with VueJs & Vuesax
+- 💕 Currently fall in love with VueJs, Vuesax Framework and Laravel
 - 📫 You can reach me at my instagram [@erickchandra___](https://instagram.com/erickchandra___)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erickchann)](https://github.com/erickchann/erickchann)
