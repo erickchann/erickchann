@@ -1,48 +1,88 @@
-# *Hi there 👋🏻*
+<h3 align="left">Hii! My name is Erick and I'm a Fullstack Developer, from Indonesia</h3>
 
-## About Me
-- 📚 Currently learning UI frameworks, JavaScript frameworks, web animations and interactivity
-- ⚡ Excited to create projects with VueJs and Laravel
-- 📫 You can reach me at my instagram [@erickchandra___](https://instagram.com/erickchandra___)
+###
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erickchann)](https://github.com/erickchann/erickchann)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickchann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickchann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## Here is tech stacks I know and use 🛠
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10" align="right">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="nuxtjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="bulma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
+</div>
 
-![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-2f1a47?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-2f1a47?style=flat&logo=CSS3)&nbsp;
+###
 
-![VueJs](https://img.shields.io/badge/-VueJs-2f1a47?style=flat&logo=Vue.js)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-2f1a47?style=flat&logo=Vite)&nbsp;
-![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=React)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-2f1a47?style=flat&logo=Nuxt.js)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-2f1a47?style=flat&logo=Next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-2f1a47?style=flat&logo=Node.js)&nbsp;
-![npm](https://img.shields.io/badge/-npm-2f1a47?style=flat&logo=npm)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
-![Composer](https://img.shields.io/badge/-Composer-2f1a47?style=flat&logo=Composer)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=Firebase)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-2f1a47?style=flat&logo=WordPress)&nbsp;
+<div align="center">
+  <a href="https://www.instagram.com/erickchandra___" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=Bootstrap)&nbsp;
-![Bulma](https://img.shields.io/badge/-Bulma-2f1a47?style=flat&logo=Bulma)&nbsp;
-![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=Tailwind%20CSS)&nbsp;
-![Vuetify](https://img.shields.io/badge/-Vuetify-2f1a47?style=flat&logo=Vuetify)&nbsp;
-![Buefy](https://img.shields.io/badge/-Buefy-2f1a47?style=flat&logo=Buefy)&nbsp;
-![Material%20Design%20Icons](https://img.shields.io/badge/-Material%20Design%20Icons-2f1a47?style=flat&logo=Material%20Design%20Icons)&nbsp;
+###
 
-![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-2f1a47?style=flat&logo=GitHub)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-2f1a47?style=flat&logo=GitLab)&nbsp;
+<br clear="both">
 
-![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=Visual%20Studio%20Code)&nbsp;
-![Sublime%20Text](https://img.shields.io/badge/-Sublime%20Text-2f1a47?style=flat&logo=Sublime%20Text)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=Postman)&nbsp;
-![Adobe%20Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-2f1a47?style=flat&logo=Adobe%20Photoshop)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=Figma)&nbsp;
+<img src="https://raw.githubusercontent.com/erickchann/erickchann/output/snake.svg" alt="Snake animation" />
+
+###
